@@ -1,7 +1,9 @@
 {
-    "name": "phptars/tars2php",
+    "name": "phpcyy/tars2php",
     "description": "php代码自动生成工具",
     "version":"0.3.2",
+    "type": "library",
+    "bin": ["src/proto2php.php", "src/tars2php.php"],
     "authors": [
         {
             "name": "Chen Liang",
